@@ -135,9 +135,9 @@ header {
   font-style: normal;
 }
 .code-example pre {
-  width: 300px;
+  width: 290px;
   margin: 0 auto;
-  padding: 0 15px;
+  padding: 0 15px 0 5px;
   text-align: left;
   font-size: 14px;
   color: #fff;
